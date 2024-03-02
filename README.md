@@ -31,3 +31,5 @@ after line 136
 and before the line connection.setRequestMethod("GET");
 
 paste the outdated database into message.txt
+For ease of use, please only paste in small chunks of database each time you run the program, as the data will no be retrievable while running
+
